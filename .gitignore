@@ -254,6 +254,8 @@ cython_debug/
 #.idea/
 
 # Llama-Index and other data files
-storage/
-chroma/
 audio/
+chroma/
+flagged/
+gradio_cached_examples/
+storage/
